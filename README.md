@@ -2,7 +2,7 @@
 
 ### This repository contains course notes and worked examples.
 
-The following courses will be added:
+The following will be added in due course:
 
 1. Introduction to Statistics in Python
 2. Introduction to Regression with statsmodels in Python
